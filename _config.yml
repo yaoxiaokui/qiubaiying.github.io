@@ -4,7 +4,7 @@ SEOTitle: readyao的博客
 header-img: img/post-bg-desk.jpg
 email: 529188712@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, =yaoxiaokui"
+keyword: "yaoxiaokui"
 url: "http://yaoxiaokui.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yaoxiaokui/yaoxiaokui.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/yaoxiaokui/yaoxiaokui.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/TIM图片20180526154312.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
